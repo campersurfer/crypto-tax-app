@@ -40,6 +40,12 @@
 - Loading animations for API calls (anime.js)
 - Accessible and easy to use
 
+## Deployment & Hosting
+- Frontend deployed to Netlify with continuous deployment
+  - Netlify internal ID: 01JS88PMHJH2HV7HYNCX0KM9DA
+  - Live URL: https://crypto-tax-app.netlify.app
+  - GitHub Repo: campersurfer/crypto-tax-app (branch main)
+
 ## Workflow & Documentation
 - Update this file after every user request/step
 - All new features, architectural changes, or design decisions must be reflected here
@@ -127,7 +133,7 @@ This application and its AI-powered features are provided for informational purp
 - Comprehensive documentation and onboarding
 
 ---
-_Last updated: 2025-04-16_
+_Last updated: 2025-04-19_
 
 ## Architecture & Tech Stack
 - Backend: FastAPI (Python 3.10 recommended for compatibility)
@@ -237,4 +243,4 @@ _Last updated: 2025-04-16_
 - Comprehensive documentation and onboarding
 
 ---
-_Last updated: 2025-04-16_
+_Last updated: 2025-04-19_
