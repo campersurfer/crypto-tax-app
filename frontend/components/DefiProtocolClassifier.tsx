@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import anime from "animejs";
+import * as anime from 'animejs';
 
 export const DefiProtocolClassifier: React.FC = () => {
   const [transactions, setTransactions] = useState<any[]>([]);
